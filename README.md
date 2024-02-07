@@ -1,7 +1,8 @@
 <h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gandla Venkata Sai Krishna</h1>
 
 ### :man_technologist: About Me 
-- 🧑‍💻 Pronouns: He/His
+- 🧑‍💻 Pronouns: He/Him
+- 🧑‍🎓 B.tech (Computer Science and Engineering) CGPA :- 8.15
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎾 Two times selected for ALL INDIA INTER UNIVERSITY BALL BADMINTON MEN TOURNAMENT 2022 & 2023
      Inter University Sports Board (AIU)
