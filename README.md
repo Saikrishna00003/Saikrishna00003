@@ -6,7 +6,7 @@
 - 🧭 I love exploring and working both in frontend and backend.
 - 🏅 Selected for National Means-cum-Merit Scholarship in class 8th <br> &nbsp; &nbsp;&nbsp; &nbsp;
      Central government-sponsored scheme
-- 🎾 Two times selected for ALL INDIA INTER UNIVERSITY BALL BADMINTON MEN TOURNAMENT 2022 & 2023
+- 🎾 Two times selected for ALL INDIA INTER UNIVERSITY BALL BADMINTON MEN TOURNAMENT 2022 & 2023<br> &nbsp; &nbsp;&nbsp; &nbsp;
      Inter University Sports Board (AIU)
 ### :hammer_and_wrench: Languages and Tools 
 <div>
