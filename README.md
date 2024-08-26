@@ -34,9 +34,7 @@
   <a href="https://www.linkedin.com/in/sai-krishna-8050ba18b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://www.instagram.com/saikrishna__03/">
-        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
-    </a>
+ 
 </p>
 
 <!--
