@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
     </a> <br/>
     <a href="https://venkata-sai-krishna-portfolio.netlify.app/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=fff" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-4CAF50?style=for-the-badg&logoColor=fff" alt="Portfolio" />
 </a>
 
  
