@@ -12,7 +12,7 @@
 - 🏅 Selected for National Means-cum-Merit Scholarship <br> &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;
      Central government-sponsored scheme
 - 🎾 Two times selected for ALL INDIA INTER UNIVERSITY BALL BADMINTON MEN TOURNAMENT 2022 & 2023<br> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-     Inter University Sports Board (AIU)
+     Inter University Sports Board (AIU).
 ### :hammer_and_wrench: Languages and Tools 
 <div>
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
