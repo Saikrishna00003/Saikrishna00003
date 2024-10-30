@@ -26,6 +26,7 @@
 	
 </div>   
 
+<!--
 ### :coffee: Hit Me Up Here
 <p align="center">
 	 <a href="https://github.com/Saikrishna00003" alt="Github" title="github">
@@ -37,15 +38,15 @@
     <a href="https://venkata-sai-krishna-portfolio.netlify.app/" title="Portfolio">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4CAF50?style=for-the-badg&logoColor=fff" alt="Portfolio" />
 </a>
-
+-->
  
 </p>
 
-<!--
+
 ### :fire: Streaks 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saikrishna00003)](https://git.io/streak-stats)  
 
 ### 📈 Github Stats (Amongst top 50%)
 ![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Saikrishna00003&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna00003&layout=compact&langs_count=4)
--->
+
