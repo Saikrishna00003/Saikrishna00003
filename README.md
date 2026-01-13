@@ -7,6 +7,7 @@
 
 ### :man_technologist: About Me 
 - 🧑‍💻 Pronouns: He/Him
+- 🧑‍💻 Software Engineer
 - 🧑‍🎓 B.tech (Computer Science and Engineering) <br> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; CGPA :- 8.15
 - 🧭 I love exploring and working both in frontend and backend.
 - 🏅 Selected for National Means-cum-Merit Scholarship <br> &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;
