@@ -38,10 +38,10 @@
 	 <a href="https://github.com/Saikrishna00003" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff" alt="Github"/>
 	</a> &nbsp;
-  <a href="https://linkedin.com/in/gvsaikrishna?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+ <!-- <a href="https://linkedin.com/in/gvsaikrishna?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
-    </a> <br/>
-    <a href="https://venkata-sai-krishna-portfolio.netlify.app/" title="Portfolio">
+    </a> <br/> -->
+    <a href="https://venkata-sai-krishna-portfolio.netlify.app/" alt="Portfolio" title="Portfolio">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-4CAF50?style=for-the-badg&logoColor=fff" alt="Portfolio" />
 </a>
  
