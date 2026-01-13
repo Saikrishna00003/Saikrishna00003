@@ -22,6 +22,7 @@
   <a href="https://www.geeksforgeeks.org/introduction-to-tailwind-css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/></a>&nbsp;
  <a href="https://react.dev/learn" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/Saikrishna00003/Spring_Boot_Practices/blob/main/Amazon_Web_Services_Logo.png" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
  <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://github.com/Saikrishna00003/Spring_Boot_Practices/blob/main/springboot-image.png" title="Spring" alt="Spring" width="60" height="50"/></a>&nbsp;
   <a href="https://www.w3schools.com/MySQL/default.asp" target="_blank">  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
 
